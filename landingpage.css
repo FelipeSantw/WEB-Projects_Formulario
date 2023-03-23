@@ -85,6 +85,10 @@ body {
     font-size: 24px;
 }
 
+.conteudo-principal-botao:hover {
+    background-color: rgba(236, 214, 196, 0.53);
+}
+
 .conteudo-principal-img {
     width: 294.13px;
     height: 329.31px;
